@@ -71,19 +71,12 @@ Just a simple first project that i made a while ago just to learn about the basi
 <table>
   <thead>
     <tr>
+      <th width="500px" align="center">Tools I Use </th>
       <th width="500px" align="center">Websites I Often Visit</th>
-      <th width="500px" align="center">Tools I Use</th>
     </tr>
   </thead>
   <tbody>
   <tr width="500px" align="left">
-  <td>
-
-  - Itch.io
-  - Pixilart
-  - Unity Asset Store
-  
-  </td>
   <td>
 
   - Unity
@@ -93,6 +86,13 @@ Just a simple first project that i made a while ago just to learn about the basi
   - Canva
   - Visual Studio 2022
   - DaVinci Resolve
+  
+  </td>
+  <td>
+
+  - Itch.io
+  - Pixilart
+  - Unity Asset Store
 
   </td>
   </tr>
