@@ -19,12 +19,12 @@ I'm really passionate about developing games, especially in the Unity game engin
   <tr width="500px" align="center">
   <td>
 
-![NeonPongGP](https://github.com/MicksS1/MicksS1/assets/158981991/da16cde1-c7ad-4c2e-925f-302c158dc3a0)
+![NeonPongGP](https://github.com/MicksS1/MicksS1/assets/158981991/bde0fa30-dbf9-4dba-87db-9663d90863a9)
 
   </td>
   <td>
 
-![PhaseJumperGP](https://github.com/MicksS1/MicksS1/assets/158981991/12bf4c61-f3bd-4439-b2a5-b41b32e158c8)
+![PhaseJumperGP](https://github.com/MicksS1/MicksS1/assets/158981991/98ed7b8e-1cf2-4b52-8918-8d6935be908b)
 
   </td>
   </tr>
@@ -51,9 +51,7 @@ Phase Jumper is a fast paced side scroller where the main character has the abil
   <tr width="500px" align="center">
   <td>
     
-<!-- ![FirstGP](https://github.com/MicksS1/MicksS1/assets/158981991/07bde379-34d4-42e1-be41-d0a906c783e6) -->
-![PhaseJumperGP](https://github.com/MicksS1/MicksS1/assets/158981991/12bf4c61-f3bd-4439-b2a5-b41b32e158c8)
-
+![FirstGP](https://github.com/MicksS1/MicksS1/assets/158981991/07bde379-34d4-42e1-be41-d0a906c783e6)
 
   </td>
   </tr>
