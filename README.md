@@ -44,7 +44,7 @@ Phase Jumper is a fast paced side scroller where the main character has the abil
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/MicksS1/SideScroll-GameProg">My First Project</th>
+      <th width="500px" align="center"><a href="https://github.com/MicksS1/FirstProject-GameProg">My First Project</th>
     </tr>
   </thead>
   <tbody>
