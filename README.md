@@ -30,7 +30,7 @@ I'm really passionate about developing games, especially in the Unity game engin
   </tr>
   <tr width="500px">
   <td valign="text-top">
-Do you know about the classic pong game that you used to be able to play on an old mobil phone? Neon Pong is basically just that, but modernized! You can play offline with a friend or you can try playing with bots with difficulty ranging from easy to hard.
+Do you know about the classic pong game that you used to be able to play on an old mobil phone? Neon Pong is basically just that, but you can also SMASH! You can play offline with a friend or you can try playing with bots with difficulty ranging from easy to hard.
   </td>
   <td valign="text-top">
 Phase Jumper is a fast paced side scroller where the main character has the ability to teleport through objects! Try your best to finish the levels as fast as possible with as little deaths as possible. There are currently 3 levels and I'm planning to add more in the future!
