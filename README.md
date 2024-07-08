@@ -1,4 +1,4 @@
-Hi, I'm Michael! 👋
+<h1 align="center">Hi, I'm Michael! 👋</h1>
 
 ### About Me
 Hi, my name is Michael Ardisa, You can call me Michael. I am a student from Bina Nusantara University, currently majoring in Game Application and Technology. As you can probably tell from my major, i love games and i love making them. I strive to be a great game programmer in the future.
