@@ -29,10 +29,14 @@ Hi, my name is Michael Ardisa, You can call me Michael. I am a student from Bina
   </tr>
   <tr width="500px">
   <td valign="text-top">
+<p align="center">
 Do you know about the classic pong game that you used to be able to play on an old mobil phone? Neon Pong is basically just that, but you can also SMASH! You can play offline with a friend or you can try playing with bots with difficulty ranging from easy to hard.
+</p>
   </td>
   <td valign="text-top">
-Phase Jumper is a fast paced side scroller where the main character has the ability to teleport through objects! Try your best to finish the levels as fast as possible with as little deaths as possible. There are currently 3 levels and I'm planning to add more in the future!
+  <p align="center">
+  Phase Jumper is a fast paced side scroller where the main character has the ability to teleport through objects! Try your best to finish the levels as fast as possible with as little deaths as possible. There are currently 3 levels and I'm planning to add more    in the future!
+  </p>
   </td>
   </tr>
   
@@ -56,7 +60,9 @@ Phase Jumper is a fast paced side scroller where the main character has the abil
   </tr>
   <tr width="500px">
   <td valign="text-top">
+  <p align="center">
 Just a simple first project that i made a while ago just to learn about the basics of unity. This project taught me about how to manage UI, animations, scene management, sprites, and others!
+  </p>
   </td>
   </td>
   </tr>
