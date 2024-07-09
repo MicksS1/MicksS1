@@ -10,7 +10,7 @@ Hi, my name is Michael Ardisa, You can call me Michael. I am a student from Bina
       </a>
    </p>
 
-<h2 align="center">My Projects 🎮</h2>
+<h2 align="center">🎮 My Projects</h2>
 
 <!-- ============================================= -->
 <table>
