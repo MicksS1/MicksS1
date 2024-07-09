@@ -1,8 +1,14 @@
 <h1 align="center">Hi, I'm Michael! 👋</h1>
 
 <p align="center"> 
-  Hi, my name is Michael Ardisa, You can call me Michael. I am a student from Bina Nusantara University, currently majoring in Game Application and Technology. As you can probably tell from my major, i love games and i love making them. I strive to be a great game        programmer in the future. I'm really passionate about developing games, especially in the Unity game engine. So far, i've been involved in 5 game development projects as both a developer and a sound engineer.
+Hi, my name is Michael Ardisa, You can call me Michael. I am a student from Bina Nusantara University, currently majoring in Game Application and Technology. As you can probably tell from my major, i love games and i love making them. I strive to be a great game programmer in the future. I'm really passionate about developing games, especially in the Unity game engine. So far, i've been involved in 5 game development projects as both a developer and a sound engineer.
 </p>
+
+<p align="center">
+      <a href="https://github.com/MicksS1?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MicksS1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+      </a>
+   </p>
 
 <h2 align="center">My Projects 🎮</h2>
 
@@ -33,7 +39,7 @@
   <tr width="500px">
     <td valign="text-top">
       <p align="center">
-        Do you know about the classic pong game that you used to be able to play on an old mobil phone? Neon Pong is basically just that, but you can also SMASH! You can play         offline with a friend or you can try playing with bots with difficulty ranging from easy to hard.
+        Do you know about the classic pong game that you used to be able to play on an old mobil phone? Neon Pong is basically just that, but you can also SMASH! You can play offline with a friend or you can try playing with bots with difficulty ranging from easy to hard.
       </p>
     </td>
     <td valign="text-top">
@@ -64,7 +70,7 @@
     <tr width="500px">
       <td valign="text-top">
         <p align="center">
-          Just a simple first project that i made a while ago just to learn about the basics of unity. This project taught me about how to manage UI, animations, scene                  management, sprites, and others!
+          Just a simple first project that i made a while ago just to learn about the basics of unity. This project taught me about how to manage UI, animations, scene management, sprites, and others!
         </p>
       </td>
   </tr>
@@ -74,7 +80,8 @@
 </table>
 
 <!-- ============================================= -->
-<h2 align="center">My Tools</h2>
+<h2 align="center">🔧 Tools</h2>
+
 <table>
   <thead>
     <tr>
