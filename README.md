@@ -120,4 +120,10 @@ Hi, my name is Michael Ardisa, You can call me Michael. I am a student from Bina
   </tr>
   </tbody>
 </table>
+
+<h2 align="center">📊 Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MicksS1&show_icons=true&theme=gruvbox" alt="Michael's GitHub stats">
+</p>
 <!-- ============================================= -->
