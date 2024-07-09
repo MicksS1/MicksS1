@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Michael! 👋</h1>
+<h1 align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=2000&color=E7BE7B&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+Michael!;Rookie+Game+Programmer)](https://git.io/typing-svg)
+
+</h1>
 
 <p align="center"> 
 Hi, My name is Michael Ardisa, a passionate game developer and student at Bina Nusantara University. I specialize in programming with Unity and have experience in both programming and sound design for various game projects. My goal is to become a skilled game programmer in the future.
@@ -7,6 +11,7 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
 <p align="center">
       <a href="https://github.com/MicksS1?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MicksS1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="https://github.com/MicksS1?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MicksS1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/</a>
+      
 
    </p>
 
