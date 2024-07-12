@@ -8,7 +8,7 @@
 Hi, My name is Michael Ardisa, a passionate game developer and student at Bina Nusantara University. I specialize in programming with Unity and have experience in both programming and sound design for various game projects. My goal is to become a skilled game programmer in the future.
 </p>
 
-<p align="center">
+ <!-- <p align="center">
       <a href="https://github.com/MicksS1?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MicksS1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="https://github.com/MicksS1?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MicksS1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/</a>
 </p>
