@@ -77,6 +77,7 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
   <thead>
     <tr>
       <th width="500px" align="center"><a href="https://github.com/MicksS1/FirstProject-GameProg">My First Project</th>
+       <th width="500px" align="center"><a href="https://github.com/MicksS1/IsoRoque-IGI">CyberShield</th>
     </tr>
   </thead>
   <tbody>
@@ -86,6 +87,13 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
 ![FirstGP](https://github.com/MicksS1/MicksS1/assets/158981991/07bde379-34d4-42e1-be41-d0a906c783e6)
 
   </td>
+
+  <td>
+
+![CyberSheild-gif](https://github.com/user-attachments/assets/69d5cc35-496a-4076-b2b2-a893a190c218)
+
+  </td>
+  
   </tr>
     <tr width="500px">
       <td valign="text-top">
@@ -93,6 +101,11 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
           Just a simple first project that i made a while ago just to learn about the basics of unity. This project taught me about how to manage UI, animations, scene management, sprites, and others!
         </p>
       </td>
+    <td valign="text-top">
+      <p align="center">
+        In CyberShield, players control John, a skilled computer technician who creates an AI antivirus system called "CyberWatcher" to fight off cyber threats like malware, trojans, and viruses. Players use CyberWatcher to battle increasingly powerful cyber threats and protect client devices.
+      </p>
+    </td>
   </tr>
   
 
