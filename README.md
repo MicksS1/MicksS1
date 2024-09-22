@@ -83,15 +83,14 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
   <tbody>
   <tr width="500px" align="center">
   <td>
-    
-![FirstGP](https://github.com/MicksS1/MicksS1/assets/158981991/07bde379-34d4-42e1-be41-d0a906c783e6)
+
+![Cityscape Runner](https://github.com/user-attachments/assets/d05f4cb6-6ad1-4cb8-9715-e9660b7f92c7)
 
   </td>
 
   <td>
 
-![Cityscape Runner](https://github.com/user-attachments/assets/8a6c1352-e0c2-4ff0-b69e-1aa53cfb6915)
-
+![CyberSheild-gif](https://github.com/user-attachments/assets/062db961-72c7-4d43-8455-320cb5b8242e)
 
   </td>
   
