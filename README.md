@@ -76,7 +76,7 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/MicksS1/FirstProject-GameProg">My First Project</th>
+      <th width="500px" align="center"><a href="https://github.com/MicksS1/FirstProject-GameProg">Cityscape Runner</th>
        <th width="500px" align="center"><a href="https://github.com/MicksS1/IsoRoque-IGI">CyberShield</th>
     </tr>
   </thead>
@@ -90,7 +90,8 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
 
   <td>
 
-![CyberSheild-gif](https://github.com/user-attachments/assets/69d5cc35-496a-4076-b2b2-a893a190c218)
+![Cityscape Runner](https://github.com/user-attachments/assets/8a6c1352-e0c2-4ff0-b69e-1aa53cfb6915)
+
 
   </td>
   
@@ -98,7 +99,7 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
     <tr width="500px">
       <td valign="text-top">
         <p align="center">
-          Just a simple first project that i made a while ago just to learn about the basics of unity. This project taught me about how to manage UI, animations, scene management, sprites, and others!
+          Cityscape Runner is an adrenaline-fueled parkour experience set in a futuristic urban landscape. Master the art of movement with fluid mechanics like bunny hopping and dashing in 8 directions, allowing for fast-paced and dynamic traversal. The goal is simple: complete each level as quickly as possible, chaining jumps, dashes, and leaps to shave off precious seconds.
         </p>
       </td>
     <td valign="text-top">
