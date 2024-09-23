@@ -36,8 +36,8 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/MicksS1/Pong-GameProg">Neon Pong</th>
-      <th width="500px" align="center"><a href="https://github.com/MicksS1/SideScroll-GameProg">Phase Jumper</th>
+      <th width="500px" align="center"><a href="https://github.com/MicksS1/CyberSheild">CyberShield</th>
+      <th width="500px" align="center"><a href="https://github.com/MicksS1/CityscapeRunner">Cityscape Runner</th>
     </tr>
   </thead>
         
@@ -45,13 +45,13 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
   <tr width="500px" align="center">
   <td>
 
-  ![NeonPongGP](https://github.com/MicksS1/MicksS1/assets/158981991/bde0fa30-dbf9-4dba-87db-9663d90863a9)
+![CyberSheild-gif](https://github.com/user-attachments/assets/062db961-72c7-4d43-8455-320cb5b8242e)
 
   </td>
    
   <td>
 
-![PhaseJumperGP](https://github.com/MicksS1/MicksS1/assets/158981991/98ed7b8e-1cf2-4b52-8918-8d6935be908b)
+![Cityscape Runner](https://github.com/user-attachments/assets/d05f4cb6-6ad1-4cb8-9715-e9660b7f92c7)
 
   </td>
   </tr>
@@ -59,12 +59,12 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
   <tr width="500px">
     <td valign="text-top">
       <p align="center">
-        Do you know about the classic pong game that you used to be able to play on an old mobil phone? Neon Pong is basically just that, but you can also SMASH! You can play offline with a friend or you can try playing with bots with difficulty ranging from easy to hard.
+        In CyberShield, players control John, a skilled computer technician who creates an AI antivirus system called "CyberWatcher" to fight off cyber threats like malware, trojans, and viruses. Players use CyberWatcher to battle increasingly powerful cyber threats and protect client devices.
       </p>
     </td>
     <td valign="text-top">
       <p align="center">
-        Phase Jumper is a fast paced side scroller where the main character has the ability to teleport through objects! Try your best to finish the levels as fast as                 possible with as little deaths as possible. There are currently 3 levels and I'm planning to add more    in the future!
+       Cityscape Runner is an adrenaline-fueled parkour experience set in a futuristic urban landscape. Master the art of movement with fluid mechanics like bunny hopping and dashing in 8 directions, allowing for fast-paced and dynamic traversal. The goal is simple: complete each level as quickly as possible, chaining jumps, dashes, and leaps to shave off precious seconds.
       </p>
     </td>
   </tr>
@@ -76,21 +76,21 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/MicksS1/CityscapeRunner">Cityscape Runner</th>
-       <th width="500px" align="center"><a href="https://github.com/MicksS1/IsoRoque-IGI">CyberShield</th>
+      <th width="500px" align="center"><a href="https://github.com/MicksS1/SideScroll-GameProg">Phase Jumper</th>
+       <th width="500px" align="center"><a href="https://github.com/MicksS1/Pong-GameProg">Neon Pong</th>
     </tr>
   </thead>
   <tbody>
   <tr width="500px" align="center">
   <td>
 
-![Cityscape Runner](https://github.com/user-attachments/assets/d05f4cb6-6ad1-4cb8-9715-e9660b7f92c7)
+![PhaseJumperGP](https://github.com/MicksS1/MicksS1/assets/158981991/98ed7b8e-1cf2-4b52-8918-8d6935be908b)
 
   </td>
 
   <td>
 
-![CyberSheild-gif](https://github.com/user-attachments/assets/062db961-72c7-4d43-8455-320cb5b8242e)
+![NeonPongGP](https://github.com/MicksS1/MicksS1/assets/158981991/bde0fa30-dbf9-4dba-87db-9663d90863a9)
 
   </td>
   
@@ -98,12 +98,12 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
     <tr width="500px">
       <td valign="text-top">
         <p align="center">
-          Cityscape Runner is an adrenaline-fueled parkour experience set in a futuristic urban landscape. Master the art of movement with fluid mechanics like bunny hopping and dashing in 8 directions, allowing for fast-paced and dynamic traversal. The goal is simple: complete each level as quickly as possible, chaining jumps, dashes, and leaps to shave off precious seconds.
+          Phase Jumper is a fast paced side scroller where the main character has the ability to teleport through objects! Try your best to finish the levels as fast as                 possible with as little deaths as possible. There are currently 3 levels and I'm planning to add more    in the future!
         </p>
       </td>
     <td valign="text-top">
       <p align="center">
-        In CyberShield, players control John, a skilled computer technician who creates an AI antivirus system called "CyberWatcher" to fight off cyber threats like malware, trojans, and viruses. Players use CyberWatcher to battle increasingly powerful cyber threats and protect client devices.
+       Do you know about the classic pong game that you used to be able to play on an old mobil phone? Neon Pong is basically just that, but you can also SMASH! You can play offline with a friend or you can try playing with bots with difficulty ranging from easy to hard.
       </p>
     </td>
   </tr>
