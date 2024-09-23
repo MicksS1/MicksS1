@@ -76,7 +76,7 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/MicksS1/FirstProject-GameProg">Cityscape Runner</th>
+      <th width="500px" align="center"><a href="https://github.com/MicksS1/CityscapeRunner">Cityscape Runner</th>
        <th width="500px" align="center"><a href="https://github.com/MicksS1/IsoRoque-IGI">CyberShield</th>
     </tr>
   </thead>
