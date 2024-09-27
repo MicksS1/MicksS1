@@ -45,7 +45,8 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
   <tr width="500px" align="center">
   <td>
 
-![CyberSheild-gif](https://github.com/user-attachments/assets/062db961-72c7-4d43-8455-320cb5b8242e)
+![CyberShieldUpdated (4)](https://github.com/user-attachments/assets/d23cb70a-f0d1-4860-a32e-c3e05c527feb)
+
 
   </td>
    
