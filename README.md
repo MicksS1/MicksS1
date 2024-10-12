@@ -37,7 +37,7 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
   <thead>
     <tr>
       <th width="500px" align="center"><a href="https://github.com/MicksS1/CyberSheild">CyberShield</th>
-      <th width="500px" align="center"><a href="https://github.com/MicksS1/CityscapeRunner">Cityscape Runner</th>
+      <th width="500px" align="center"><a href="https://github.com/MicksS1/ParrySoulLike">Feline Parrymaster</th>
     </tr>
   </thead>
         
@@ -52,7 +52,8 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
    
   <td>
 
-![Cityscape Runner](https://github.com/user-attachments/assets/d05f4cb6-6ad1-4cb8-9715-e9660b7f92c7)
+![Feline Parrymaster](https://github.com/user-attachments/assets/cbabf260-05d9-4b70-9d50-ddbdad679838)
+
 
   </td>
   </tr>
@@ -65,7 +66,7 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
     </td>
     <td valign="text-top">
       <p align="center">
-       Cityscape Runner is an adrenaline-fueled parkour experience set in a futuristic urban landscape. Master the art of movement with fluid mechanics like bunny hopping and dashing in 8 directions, allowing for fast-paced and dynamic traversal. The goal is simple: complete each level as quickly as possible, chaining jumps, dashes, and leaps to shave off precious seconds.
+       Feline Parrymaster is a third-person action-adventure game set in a mystical world. You play as a legendary sword-wielding cat who battles fierce enemies like orcs, using unique parrying skills to deflect both melee and projectile attacks with a mix of fast-paced combat. The game challenges players to master the art of parrying and become a true feline swordmaster.
       </p>
     </td>
   </tr>
@@ -78,7 +79,7 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
   <thead>
     <tr>
       <th width="500px" align="center"><a href="https://github.com/MicksS1/SideScroll-GameProg">Phase Jumper</th>
-       <th width="500px" align="center"><a href="https://github.com/MicksS1/Pong-GameProg">Neon Pong</th>
+       <th width="500px" align="center"><a href="https://github.com/MicksS1/CityscapeRunner">Cityscape Runner</th>
     </tr>
   </thead>
   <tbody>
@@ -91,7 +92,7 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
 
   <td>
 
-![NeonPongGP](https://github.com/MicksS1/MicksS1/assets/158981991/bde0fa30-dbf9-4dba-87db-9663d90863a9)
+![Cityscape Runner](https://github.com/user-attachments/assets/d05f4cb6-6ad1-4cb8-9715-e9660b7f92c7)
 
   </td>
   
@@ -104,7 +105,7 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
       </td>
     <td valign="text-top">
       <p align="center">
-       Do you know about the classic pong game that you used to be able to play on an old mobil phone? Neon Pong is basically just that, but you can also SMASH! You can play offline with a friend or you can try playing with bots with difficulty ranging from easy to hard.
+       Cityscape Runner is an adrenaline-fueled parkour experience set in a futuristic urban landscape. Master the art of movement with fluid mechanics like bunny hopping and dashing in 8 directions, allowing for fast-paced and dynamic traversal. The goal is simple: complete each level as quickly as possible, chaining jumps, dashes, and leaps to shave off precious seconds.
       </p>
     </td>
   </tr>
