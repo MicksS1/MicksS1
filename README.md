@@ -142,6 +142,8 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
   - Itch.io
   - Pixilart
   - Unity Asset Store
+  - Mixamo
+  - Actorcore
 
   </td>
   </tr>
