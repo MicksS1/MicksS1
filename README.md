@@ -4,7 +4,7 @@
 
 </h1> -->
 
-<h1 align="center">👋 About Me 👋</h1>
+<h1 align="center">📌 About Me</h1>
 
 <p align="center"> 
 Hi, My name is Michael Ardisa, a passionate game developer and student at Bina Nusantara University. I specialize in programming with Unity and have experience in both programming and sound design for various game projects. My goal is to become a skilled game programmer in the future.
