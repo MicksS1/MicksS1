@@ -1,8 +1,8 @@
-<h1 align="center">
+<!-- <h1 align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=2000&color=E7BE7B&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+Michael!;Rookie+Game+Programmer)](https://git.io/typing-svg)
 
-</h1>
+</h1> -->
 
 <p align="center"> 
 Hi, My name is Michael Ardisa, a passionate game developer and student at Bina Nusantara University. I specialize in programming with Unity and have experience in both programming and sound design for various game projects. My goal is to become a skilled game programmer in the future.
